@@ -125,7 +125,7 @@ footer {
 }
 
 .nothing-here {
-    height: calc(100vh - 20rem);
+    height: calc(90vh - 20rem);
     width: 100%;
     display: flex;
     justify-content: center;
