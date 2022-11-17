@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Public Sans';
+    src: local('Public Sans'), url('fonts/PublicSans-Regular.otf');
+    font-weight: 450;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+    font-family: 'Public Sans';
+    src: local('Public Sans'), url('fonts/PublicSans-Bold.otf');
+    font-weight: 600;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}

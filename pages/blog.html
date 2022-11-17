@@ -1,0 +1,16 @@
+{% extends 'body.html' %}
+
+{% block content %}
+<main>
+    <h1>stuff I had written.</h1>
+    {% if postslinks %}
+    <ul>
+
+    </ul>
+    {% else %}
+    <div class="nothing-here">
+        <h3>there is nothing here. (yet).</h3>
+    </div>
+    {% endif %}
+</main>
+{% endblock content %}
