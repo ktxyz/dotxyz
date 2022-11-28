@@ -131,3 +131,12 @@ footer {
     justify-content: center;
     align-items: center;
 }
+
+.post-main {
+    max-width: calc(min(600px, 90vw));
+}
+
+img {
+    max-width: calc(min(700px, 90vw));
+    display: inline-block;
+}
